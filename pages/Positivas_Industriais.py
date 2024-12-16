@@ -22,7 +22,7 @@ try:
     soma_colunas = df.sum(axis=0)  # Soma dos valores por coluna
 
     # Exibe a soma de cada coluna
-    st.subheader("Soma dos Valores por Coluna:")
+    st.subheader("Soma das Placas positivas")
     st.write(soma_colunas)
     
     
