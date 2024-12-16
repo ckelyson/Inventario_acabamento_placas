@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import requests
-import plotly.express as px
 
 # Título do app
 st.title('INVENTÁRIO ACABAMENTO DE PLACAS :shopping_trolley:')
